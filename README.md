@@ -21,7 +21,7 @@
 
   This application allows the user to get, create, update, and delete various e-commerce database items. 
   
-  ![E-Commerce Screenshot](/public/assets/images/screenshot.JPG)
+  ![E-Commerce Screenshot](/public/assets/screenshot.JPG)
 
   
   ## License

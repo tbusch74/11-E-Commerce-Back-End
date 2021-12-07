@@ -4,7 +4,7 @@
 
   ## Description
 
-  This repository is for the 11th weekly challenge for the University of Minnesota coding boot camp submitted by Tony Busch. This project is application uses MySQL2, dotenv, express and sequelize packages to create a mock back end e-commererce database.
+  This repository is for the 11th weekly challenge for the University of Minnesota coding boot camp submitted by Tony Busch. This project is application uses MySQL2, dotenv, express and sequelize packages to create a mock back end e-commerce database.
 
   ## Table of Contents
   
